@@ -2,12 +2,12 @@
 ### My name is Arjun Pherwani and thank you for stumbling to my corner of GitHub. Here's a little about me:
 
 - I'm the software development co-director at KnightHacks, a student run organization at UCF
-- I'm currently working on... a game!
+- I'm currently working on... Generative Adversarial Networks!
 - I'm currently learning:
-  - Game Development
-  - Game Design
-  - C#
-- You can contact me via email at arjunp@knights.ucf.edu
+  - Game Theory inspired AI architectures
+  - Robotics
+  - ROS 2.0
+- You can contact me via email at arjunpherwani@outlook.com
 
 ### Thank you so much!
 <!--
