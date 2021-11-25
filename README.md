@@ -1,8 +1,7 @@
 ## Hi there 👋
 ### My name is Arjun Pherwani and thank you for stumbling to my corner of GitHub. Here's a little about me:
 
-- I'm the software development co-director at KnightHacks, a student run organization at UCF
-- I'm currently working on... Generative Adversarial Networks!
+- I'm currently working on... VISIONome.
 - I'm currently learning:
   - Game Theory inspired AI architectures
   - Robotics
