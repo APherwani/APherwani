@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Arjun Pherwani and thank you for stumbling to my corner of GitHub. Here's a little about me:
+### My name is Arjun Pherwani and thank you for checking this out. Here's a little about me:
 
 - I'm currently working on [VISIONome](https://github.com/Visionome/frontend).
 - I'm currently learning:
