@@ -1,7 +1,7 @@
 ## Hi there 👋
 ### My name is Arjun Pherwani and thank you for checking this out. Here's a little about me:
 
-- I'm currently working on [VISIONome](https://github.com/Visionome/frontend).
+- I'm currently working on [VISIONome](https://github.com/Visionome/frontend) which is a UCF Senior Design Project.
 - I'm currently learning:
   - Game Theory inspired AI architectures
   - Robotics
