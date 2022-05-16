@@ -1,11 +1,9 @@
 ## Hi there 👋
 ### My name is Arjun Pherwani and thank you for checking this out. Here's a little about me:
 
-- I'm currently working on [VISIONome](https://github.com/Visionome/frontend) which is a UCF Senior Design Project.
-- I'm currently learning:
-  - Game Theory inspired AI architectures
-  - Robotics
-  - ROS 2.0
+- I graduated in May 2022 from UCF 
+- I majored in CS and minored in Math and Robotics.
+- I will be joining a big tech company as a Junior Software Developer in fall.
 - You can contact me via email at arjunpherwani@outlook.com
 
 ### Thank you so much!
