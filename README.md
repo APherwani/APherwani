@@ -1,5 +1,5 @@
 ## Hi there 👋
-### My name is Arjun Pherwani and thank you for checking this out. Here's a little about me:
+### My name is Arjun. Here's a little about me:
 
 - 🎓 I graduated in May 2022 from UCF 
 - 💻 I majored in CS and minored in Math and Robotics
