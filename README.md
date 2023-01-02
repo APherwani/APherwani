@@ -2,11 +2,10 @@
 ### My name is Arjun Pherwani and thank you for checking this out. Here's a little about me:
 
 - I graduated in May 2022 from UCF 
-- I majored in CS and minored in Math and Robotics.
-- I will be joining a big tech company as a Junior Software Developer in fall.
+- I majored in CS and minored in Math and Robotics
+- I work on Azure Media Services
 - You can contact me via email at arjunpherwani@outlook.com
-
-### Thank you so much!
+- Rust is cool
 <!--
 **APherwani/APherwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
