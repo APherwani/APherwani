@@ -7,6 +7,7 @@
 - ✉️ You can contact me via email at arjunpherwani@outlook.com
 - 🦀 Rust is cool
 - 💬 Ask me about my Rust projects
+- ❕I am a casual Bogo-sort enjoyer (dm for details)
 
 <!--
 **APherwani/APherwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
