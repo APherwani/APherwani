@@ -1,23 +1,5 @@
-## Hi there 👋
-### My name is Arjun. Here's a little about me:
+## Hi, I'm Arjun 👋
 
-- 🎓 I graduated in May 2022 from UCF 
-- 💻 I majored in CS and minored in Math and Robotics
-- 🧑‍💻 I work on Azure Media Services
-- ✉️ You can contact me via email at arjunpherwani@outlook.com
-- 🦀 Rust is cool
-- 💬 Ask me about my Rust projects
-- ❕I am a casual Bogo-sort enjoyer (dm for details)
+I'm a systems engineer at Microsoft, working on high-performance networking infrastructure in Azure. I write systemd drivers and userspace components in Rust.
 
-<!--
-**APherwani/APherwani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Outside of work, I'm interested in distributed systems, systems programming, and clean software design. Occasionally, I tinker with personal Rust projects and try to learn something new.
