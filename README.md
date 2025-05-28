@@ -1,5 +1,5 @@
 ## Hi, I'm Arjun 👋
 
-I'm a systems engineer at Microsoft, working on high-performance networking infrastructure in Azure. I write systemd drivers and userspace components in Rust.
+I'm a systems engineer at Microsoft, focused on high-performance networking in Azure. Most of my day-to-day work involves writing systemd drivers and Rust userspace components for Linux.
 
-Outside of work, I'm interested in distributed systems, systems programming, and clean software design. Occasionally, I tinker with personal Rust projects and try to learn something new.
+This GitHub mainly contains university-era projects and occasional side experiments — not a showcase of my production work, which lives behind walls (for now). Still, feel free to poke around.
